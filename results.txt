@@ -1,0 +1,3008 @@
+Median Produce Response Time: 0 ms
+Mean Produce Response Time: 0.576 ms
+
+Detailed Response Times (ms):
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+82
+176
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Response Time: 311 ms, Messages Consumed: 1000
+Median Consume Response Time: 311 ms
+Mean Consume Response Time: 311.0 ms
+
+Detailed Response Times (ms):
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
+311
