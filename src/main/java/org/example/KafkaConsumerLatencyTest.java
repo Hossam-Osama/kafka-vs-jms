@@ -1,95 +1,178 @@
 package org.example;
 
+import org.apache.kafka.clients.admin.*;
 import org.apache.kafka.clients.consumer.*;
-import org.apache.kafka.clients.producer.*;
-import org.apache.kafka.common.serialization.StringDeserializer;
-import org.apache.kafka.common.serialization.StringSerializer;
+import org.apache.kafka.common.TopicPartition;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.time.Duration;
 import java.util.*;
-import java.io.FileWriter;
-import java.io.PrintWriter;
-import java.io.IOException;
 
 public class KafkaConsumerLatencyTest {
-    public static void main(String[] args) {
-        Properties consumerProps = new Properties();
-        consumerProps.put("bootstrap.servers", "localhost:9092");
-        consumerProps.put("group.id", "latency-test-group");
-        consumerProps.put("key.deserializer", StringDeserializer.class.getName());
-        consumerProps.put("value.deserializer", StringDeserializer.class.getName());
-        consumerProps.put("auto.offset.reset", "earliest");
-        consumerProps.put("enable.auto.commit", "false");
-        consumerProps.put("max.poll.records", "2000");
 
+    private static final String TOPIC = "test-topic";
+    private static final String BOOTSTRAP_SERVERS = "localhost:9092";
+    private static final int TARGET_MESSAGES = 1000;
 
-        Consumer<String, String> consumer = new KafkaConsumer<>(consumerProps);
-        consumer.subscribe(Collections.singletonList("test-topic"));
+    public static void main(String[] args) throws Exception {
 
-        Properties producerProps = new Properties();
-        producerProps.put("bootstrap.servers", "localhost:9092");
-        producerProps.put("key.serializer", StringSerializer.class.getName());
-        producerProps.put("value.serializer", StringSerializer.class.getName());
+        // ── Step 1: Delete all messages except the last 1000 ──────────────────
+        trimTopicToLastN(TARGET_MESSAGES);
 
-        Producer<String, String> producer = new KafkaProducer<>(producerProps);
+        // ── Step 2: Set up consumer ───────────────────────────────────────────
+        Properties props = new Properties();
+        props.put("bootstrap.servers", BOOTSTRAP_SERVERS);
+        props.put("group.id", "latency-test-group-" + System.currentTimeMillis()); // fresh group = no committed offset
+        props.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
+        props.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
+        props.put("auto.offset.reset", "earliest");   // read from the beginning of what's left
+        props.put("enable.auto.commit", "false");
+        props.put("max.poll.records", "1");            // one record per poll → one timing per call
 
-        long[] responseTimes = new long[1000]; 
-        int messageCount = 0;
+        KafkaConsumer<String, String> consumer = new KafkaConsumer<>(props);
+        consumer.subscribe(Collections.singletonList(TOPIC));
 
-        try {
-            while (messageCount < 1000) {
+        // ── Step 3: Consume exactly 1000 messages and time each call ──────────
+        long[] responseTimes = new long[TARGET_MESSAGES];
+        int count = 0;
 
-                long start = System.currentTimeMillis();
-                ConsumerRecords<String, String> records = consumer.poll(Duration.ofMillis(2000));
-                long end = System.currentTimeMillis();
+        System.out.println("Starting consume latency test — consuming " + TARGET_MESSAGES + " messages...");
 
-                int recordsConsumed = records.count(); 
+        while (count < TARGET_MESSAGES) {
+            long start = System.currentTimeMillis();
+            ConsumerRecords<String, String> records = consumer.poll(Duration.ofMillis(5000));
+            long elapsed = System.currentTimeMillis() - start;
 
-                for (ConsumerRecord<String, String> record : records) {
-                    if (messageCount >= 1000) {
-                        break;
-                    }
-                    responseTimes[messageCount] = end - start;
-                    producer.send(new ProducerRecord<>("test-topic", record.key(), record.value()));
-                    try (PrintWriter out = new PrintWriter(new FileWriter("results.txt", true))) {
-                        out.println("Response Time: " + (end - start) + " ms, Messages Consumed: " + recordsConsumed);
-                    } catch (IOException e) {
-                        System.err.println("Error writing to results2.txt: " + e.getMessage());
-                    }
-                    messageCount++;
-                }
+            if (records.isEmpty()) {
+                System.err.println("Poll returned no records at count=" + count + ". Check that the topic has enough messages.");
+                break;
             }
-        } catch (Exception e) {
-            System.err.println("Error while consuming messages: " + e.getMessage());
-        } finally {
-            consumer.close();
-            producer.close();
+
+            // max.poll.records=1 → exactly one record per iteration
+            responseTimes[count] = elapsed;
+            count++;
+
+            if (count % 100 == 0) {
+                System.out.println("Consumed " + count + " messages...");
+            }
         }
 
-        Arrays.sort(responseTimes);
+        consumer.close();
 
-        long median = responseTimes[responseTimes.length / 2];
+        if (count < TARGET_MESSAGES) {
+            System.err.println("Warning: only " + count + " messages were consumed.");
+        }
+
+        // ── Step 4: Compute & report statistics ───────────────────────────────
+        long[] sorted = Arrays.copyOf(responseTimes, count);
+        Arrays.sort(sorted);
+
+        long median = sorted[sorted.length / 2];
 
         long sum = 0;
-        for (long time : responseTimes) {
-            sum += time;
-        }
-        double mean = sum / 1000.0;
+        for (long t : sorted) sum += t;
+        double mean = (double) sum / sorted.length;
 
-        String result = "Median Consume Response Time: " + median + " ms\n" + "Mean Consume Response Time: " + mean + " ms";
-        System.out.println(result);
+        long min = sorted[0];
+        long max = sorted[sorted.length - 1];
+        long p95 = sorted[(int) (sorted.length * 0.95)];
+        long p99 = sorted[(int) (sorted.length * 0.99)];
 
+        String resultMedian = "Median Consume Response Time : " + median + " ms";
+        String resultMean   = "Mean   Consume Response Time : " + mean   + " ms";
+        String resultMin    = "Min    Consume Response Time : " + min    + " ms";
+        String resultMax    = "Max    Consume Response Time : " + max    + " ms";
+        String resultP95    = "P95    Consume Response Time : " + p95    + " ms";
+        String resultP99    = "P99    Consume Response Time : " + p99    + " ms";
+
+        System.out.println("\n=== Consume Latency Results ===");
+        System.out.println(resultMedian);
+        System.out.println(resultMean);
+        System.out.println(resultMin);
+        System.out.println(resultMax);
+        System.out.println(resultP95);
+        System.out.println(resultP99);
+
+        // ── Step 5: Append results to the same results.txt the producer used ──
         try (PrintWriter out = new PrintWriter(new FileWriter("results.txt", true))) {
-            out.println(result);
-            out.println("\nDetailed Response Times (ms):");
-            for (long time : responseTimes) {
-                out.println(time);
-            }
+            out.println("\n=== Consume Latency Results ===");
+            out.println(resultMedian);
+            out.println(resultMean);
+            out.println(resultMin);
+            out.println(resultMax);
+            out.println(resultP95);
+            out.println(resultP99);
+            out.println("\nDetailed Consume Response Times (ms):");
+            for (long t : sorted) out.println(t);
         } catch (IOException e) {
             System.err.println("Error writing to results.txt: " + e.getMessage());
         }
+
+        System.out.println("\nResults appended to results.txt");
+    }
+
+    /**
+     * Moves the beginning offset of every partition in the topic forward so
+     * that only the last {@code keepCount} messages remain readable.
+     * Uses Kafka's Admin API (deleteRecords) — no data is physically removed
+     * but offsets before the new low-watermark become invisible to consumers.
+     */
+    private static void trimTopicToLastN(int keepCount) throws Exception {
+        System.out.println("Trimming topic so only the last " + keepCount + " messages remain...");
+
+        Properties adminProps = new Properties();
+        adminProps.put("bootstrap.servers", BOOTSTRAP_SERVERS);
+
+        try (AdminClient admin = AdminClient.create(adminProps)) {
+
+            // 1. Get end offsets for every partition
+            List<TopicPartition> partitions = new ArrayList<>();
+            admin.describeTopics(Collections.singletonList(TOPIC))
+                 .allTopicNames().get()
+                 .get(TOPIC).partitions()
+                 .forEach(p -> partitions.add(new TopicPartition(TOPIC, p.partition())));
+
+            // Use a throw-away consumer just to call endOffsets()
+            Properties tempProps = new Properties();
+            tempProps.put("bootstrap.servers", BOOTSTRAP_SERVERS);
+            tempProps.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
+            tempProps.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
+            tempProps.put("group.id", "trim-helper-" + System.currentTimeMillis());
+
+            Map<TopicPartition, Long> endOffsets;
+            try (KafkaConsumer<String, String> tmp = new KafkaConsumer<>(tempProps)) {
+                endOffsets = tmp.endOffsets(partitions);
+            }
+
+            // 2. Calculate total messages and decide how many to skip per partition
+            long totalMessages = endOffsets.values().stream().mapToLong(Long::longValue).sum();
+            System.out.println("Total messages currently in topic: " + totalMessages);
+
+            long toDelete = Math.max(0, totalMessages - keepCount);
+            System.out.println("Messages to make invisible (delete from head): " + toDelete);
+
+            if (toDelete == 0) {
+                System.out.println("Nothing to trim.");
+                return;
+            }
+
+            // 3. Build deleteRecords map — advance the low-watermark per partition
+            //    proportionally (simple: remove from partition 0 first, then 1, …)
+            Map<TopicPartition, RecordsToDelete> deleteMap = new LinkedHashMap<>();
+            long remaining = toDelete;
+
+            for (TopicPartition tp : partitions) {
+                if (remaining <= 0) break;
+                long endOffset = endOffsets.get(tp);
+                long deleteUpTo = Math.min(remaining, endOffset);
+                deleteMap.put(tp, RecordsToDelete.beforeOffset(deleteUpTo));
+                remaining -= deleteUpTo;
+            }
+
+            admin.deleteRecords(deleteMap).all().get();
+            System.out.println("Trim complete. Topic now has ~" + keepCount + " readable messages.\n");
+        }
     }
 }
-
-
-
-
