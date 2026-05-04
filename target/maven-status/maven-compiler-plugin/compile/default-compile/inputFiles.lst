@@ -1,4 +1,8 @@
-/home/happy/lab4/kafka-vs-jms/src/main/java/org/example/KafkaConsumerLatencyTest.java
-/home/happy/lab4/kafka-vs-jms/src/main/java/org/example/KafkaProducerLatencyTest.java
-/home/happy/lab4/kafka-vs-jms/src/main/java/org/example/LatencyConsumer.java
-/home/happy/lab4/kafka-vs-jms/src/main/java/org/example/LatencyProducer.java
+D:\collage\Data Intensive\Labs\kafka-vs-jms\src\main\java\org\example\jmspart\ClearQueue.java
+D:\collage\Data Intensive\Labs\kafka-vs-jms\src\main\java\org\example\jmspart\JMSHelper.java
+D:\collage\Data Intensive\Labs\kafka-vs-jms\src\main\java\org\example\jmspart\LatencyTest.java
+D:\collage\Data Intensive\Labs\kafka-vs-jms\src\main\java\org\example\jmspart\ResponseTimeTest.java
+D:\collage\Data Intensive\Labs\kafka-vs-jms\src\main\java\org\example\KafkaConsumerLatencyTest.java
+D:\collage\Data Intensive\Labs\kafka-vs-jms\src\main\java\org\example\KafkaProducerLatencyTest.java
+D:\collage\Data Intensive\Labs\kafka-vs-jms\src\main\java\org\example\LatencyConsumer.java
+D:\collage\Data Intensive\Labs\kafka-vs-jms\src\main\java\org\example\LatencyProducer.java
