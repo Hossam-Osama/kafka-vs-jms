@@ -1,0 +1,9 @@
+No.,samples,throughput,isSuccess,Error
+1,10,11.5,true,0
+2,50,52.7,true,0
+3,200,206.8,true,0
+4,500,428.8,true,0
+5,1000,407.3,true,0
+6,2000,385.6,true,0
+7,4000,411.1,true,0
+8,8000,366.0,false,0.04
