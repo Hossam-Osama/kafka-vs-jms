@@ -1,4 +1,4 @@
-org/example/KafkaProducerLatencyTest.class
-org/example/LatencyProducer.class
-org/example/LatencyConsumer.class
-org/example/KafkaConsumerLatencyTest.class
+org\example\KafkaProducerLatencyTest.class
+org\example\LatencyConsumer.class
+org\example\LatencyProducer.class
+org\example\KafkaConsumerLatencyTest.class
